@@ -11,6 +11,6 @@ Betfair have provided $1,000 to bet in the market for a number of people includi
 * backtest_squiggle: Goes through the process of testing over the 2017 & 2018 seasons for our simple approach, exploring what the distribution of our payoffs will be
 
 ## TODO (Might Do List):
-[ ] Build a simple model using log reg for the line market
-[ ] Build a process for relative score predictions and repeat simulations
-[ ] Collect Twitter data for sentiment analysis (as something different)
+* [ ] Build a simple model using log reg for the line market
+* [ ] Build a process for relative score predictions and repeat simulations
+* [ ] Collect Twitter data for sentiment analysis (as something different)
